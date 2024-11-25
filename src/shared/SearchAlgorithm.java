@@ -1,4 +1,4 @@
-package src.shared;
+package shared;
 
 public class SearchAlgorithm {
 

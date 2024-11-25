@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3a68a47-5766-4d65-a7f0-7c9c2b0be182" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shared/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/DataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/SearchAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/SearchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerA/ServerA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerB/ServerB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ProgramacaoConcorrenteJava2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgramacaoConcorrenteJava2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/DataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/DataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/SearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/SearchAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/SearchResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/SearchResult.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gaburel/Documents/GitHub/ProgramacaoConcorrenteJava2",
+    "last_opened_file_path": "/Users/victorsoares/Documents/ProgramacaoConcorrenteJava2/src/serverB",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,5 +82,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
