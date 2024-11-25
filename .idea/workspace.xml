@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3a68a47-5766-4d65-a7f0-7c9c2b0be182" name="Changes" comment="" />
+    <list default="true" id="e3a68a47-5766-4d65-a7f0-7c9c2b0be182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/shared/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/DataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/SearchAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/SearchResult.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +35,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ASD.executor": "Run",
     "Application.Client.executor": "Run",
     "Application.ServerA.executor": "Run",
     "Application.ServerB.executor": "Run",
     "Maven.ProgramacaoConcorrenteJava2 [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/gaburel/Documents/GitHub/ProgramacaoConcorrenteJava2",
