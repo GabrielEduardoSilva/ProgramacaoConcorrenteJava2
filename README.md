@@ -1,6 +1,6 @@
 
 # AT2/N2 - ATIVIDADE PRÁTICA COLETIVA 2
-> Experimento de uso de threads em Java.
+> Experimento de uso de sockets em Java.
 
 ## Visão geral
 
@@ -25,4 +25,5 @@ Configurações do sistema operacional:
 
 
 ## Arquivo PDF do relatório
+[Relatório Prática Coletiva 2.pdf](https://github.com/user-attachments/files/17902846/Relatorio.Pratica.Coletiva.2.pdf)
 
